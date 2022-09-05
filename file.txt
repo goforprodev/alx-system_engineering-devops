@@ -1,0 +1,9 @@
+0x00-shell_basics
+file.txt
+linkey
+make.html
+make2.html
+promise.txt
+school.mgc
+tmp
+welcome
