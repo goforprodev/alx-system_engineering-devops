@@ -1,0 +1,21 @@
+total 56
+drwxr-xr-x 9 prodev prodev 4096 Sep  6 11:41 .
+drwxr-xr-x 5 prodev prodev 4096 Sep  5 22:40 ..
+drwxr-xr-x 8 prodev prodev 4096 Sep  5 22:37 .git
+drwxr-xr-x 2 prodev prodev 4096 Sep  5 16:29 0x00-shell_basics
+drwxr-xr-x 2 prodev prodev 4096 Sep  5 22:37 0x02-shell_redirections
+-rw-r--r-- 1 prodev prodev    0 Sep  5 19:36 School\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 prodev prodev    0 Sep  5 19:36 \*\'Best
+-rw-r--r-- 1 prodev prodev   12 Sep  5 22:31 \*\'Best School\'\*$\?\*\*\*\*\*:)
+drwxr-xr-x 2 prodev prodev 4096 Sep  5 22:39 alx-text-env
+-rw-r--r-- 1 prodev prodev    0 Sep  6 11:41 content
+-rw-r--r-- 1 prodev prodev   90 Sep  5 17:16 file.txt
+lrwxrwxrwx 1 prodev prodev   26 Sep  4 07:27 linkey -> 0x00-shell_basics/1-listit
+-rw-r--r-- 1 prodev prodev    0 Sep  4 07:42 make.html
+-rw-r--r-- 1 prodev prodev    0 Sep  4 07:42 make2.html
+-rw-r--r-- 1 prodev prodev 1103 Sep  5 18:33 pass.txt
+-rw-r--r-- 1 prodev prodev    8 Sep  5 11:48 promise.txt
+-rw-r--r-- 1 prodev prodev  688 Sep  5 12:42 school.mgc
+drwxr-xr-x 2 prodev prodev 4096 Sep  5 16:34 som
+drwxr-xr-x 2 prodev prodev 4096 Sep  5 11:45 tmp
+drwxr-xr-x 3 prodev prodev 4096 Sep  5 12:04 welcome
